@@ -11,15 +11,10 @@ The primary goal of this section is to offer step-by-step guides, practical exam
 - **Promote Best Practices**: Share industry-standard approaches to developing, fine-tuning, and deploying LLMs.
 - **Explore Advanced Topics**: Cover state-of-the-art methods and emerging trends in the field of language models.
 
-## Structure
+### Featured Tutorial
 
-Each tutorial is organized in a progression from foundational topics to more advanced concepts, allowing you to follow along sequentially or pick topics that are most relevant to your needs. Topics include, but are not limited to:
+- [Document Summarization with LLMs](https://github.com/TensorOpsAI/LLM-Solution-Architectures/blob/main/Tutorials/DocSummarizationTutorial.ipynb): Dive into the techniques for summarizing large documents using LLMs, with practical examples and step-by-step instructions.
 
-1. **Introduction to Large Language Models**
-2. **Prompt Engineering and Optimization**
-3. **Fine-Tuning and Adaptation**
-4. **Ethics and Responsible AI**
-5. **Advanced Applications and Case Studies**
 
 ## Getting Started
 
